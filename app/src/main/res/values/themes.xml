@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GlucoSmart" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    <style name="Theme.GlucoSmart.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/glucologo_foreground</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.GlucoSmart</item>
+    </style>
+</resources>
