@@ -1,6 +1,6 @@
 # GlucoSmart 🩺📱
 
-GlucoSmart é uma aplicação Android desenvolvida no âmbito da unidade curricular **Interação Pessoa-Computador** da Licenciatura em Engenharia Informática da **ESTIG – Instituto Politécnico de Beja**.
+GlucoSmart é uma aplicação Android desenvolvida no âmbito da unidade curricular **Interação Pessoa-Computador** da Licenciatura em Engenharia Informática da **ESTIG – Instituto Politécnico de Beja**. 
 
 O seu objetivo é apoiar pessoas com **diabetes tipo 1 e 2** na gestão do consumo de hidratos de carbono (HC), promovendo maior autonomia e segurança alimentar.
 
